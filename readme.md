@@ -4,3 +4,15 @@ This study explores the use of different Quantum Long-Short-Term Memory models o
 
 ### Keywords: Quantum LSTM, Quantum Time Series Forecasting, Quantum Machine Learning, Variational Quantum Circuits
 
+![Description of Data]([http://url/to/img.png](https://github.com/SPUTnik-42/Q-LSTM/blob/master/Figures/data.png))
+
+![RMSE errors of Quantum and Classical Models]([http://url/to/img.png](https://github.com/SPUTnik-42/Q-LSTM/blob/master/Figures/table.png))
+
+![Loss of Quantum Models Vs Classical Models ]([http://url/to/img.png](https://github.com/SPUTnik-42/Q-LSTM/blob/master/Figures/loss.png))
+
+![Prediction of Quantum Models Vs Classical Models ]([http://url/to/img.png](https://github.com/SPUTnik-42/Q-LSTM/blob/master/Figures/test.png))
+
+![Prediction of Quantum ARIMA-QLSTM ]([http://url/to/img.png](https://github.com/SPUTnik-42/Q-LSTM/blob/master/Figures/arima_qlstm.png))
+
+
+
